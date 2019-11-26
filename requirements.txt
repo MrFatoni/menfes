@@ -1,9 +1,1 @@
-django
-gunicorn
-django-heroku
-keys
-time
-requests
-os
-tweepy
-random
+phpmyadmin
