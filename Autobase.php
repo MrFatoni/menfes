@@ -63,7 +63,7 @@ foreach ($someObject->events as $item) {
     $tweet = trim($pecah[0]);
     $img = $item->message_create->message_data->attachment->media->media_url.':large';
     ngetweetmedia($tweet,$img,$dmids);
+}
   }
-    }
     }
 ?>
