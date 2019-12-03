@@ -3,10 +3,10 @@ ini_set('display_errors', 1);
 require_once('lib2/twitteroauth.php');
 //require_once('lib/twitteroauth.php');
 /** Ambil data hari : https://developer.twitter.com/en/apps **/
-define('CONSUMER_KEY', 'cBo8YGDj10ym4CdDFOpFft2Rv'); //isi
-define('CONSUMER_SECRET', 'AFKAiuP2nsGvHTkgGy8q2vv690dhKkggtOCGGWZdVlzLvj1ofL'); //isi
-define('access_token', '1195808018048282624-428Yw1jkqqHYw6ZH41ZCjehyehlBBl'); //isi
-define('access_token_secret', 'C0WLkw5uponc22FZp36CDW32EpZnTWtr2N9Qp8EaAGBsO'); //isi
+define('CONSUMER_KEY', 'isi'); //isi
+define('CONSUMER_SECRET', 'isi'); //isi
+define('access_token', 'isi'); //isi
+define('access_token_secret', 'isi'); //isi
 
 //==========================
 
