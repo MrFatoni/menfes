@@ -43,6 +43,7 @@ Kalo bingung bisa search google "membuat cronjobs dengan google script"
 
 ## Update
 
+* added Log file
 * Fixing bug 
 * added Destroy dm setelah di post
 * etc
