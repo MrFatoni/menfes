@@ -51,7 +51,7 @@ $dm = $koneksi->get('direct_messages/events/list');
 $someObject = json_decode(json_encode($dm));
 foreach ($someObject->events as $item) {
 $tweet = $item->message_create->message_data->text;
-if(strpos($tweet, 'Matamu!') !== false) { // ganti key nya
+if(strpos($tweet, 'KATA UNTUK TRIGGERED DM') !== false) { // ganti key nya
 $dmids = $item->id;
 echo $dmids;
 $iki = $item->message_create->message_data->entities->urls;
