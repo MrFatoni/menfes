@@ -1,12 +1,14 @@
-User: 1092702178106499072 - December 3, 2019, 8:43 am
-Time Stamps: 1575384112810
-tweet: Tess! another test
+///////////////////////////////////////////////////////////////
+This is the example of the log files
+
+you can lookup the sender who sent the tweet using the user id
+///////////////////////////////////////////////////////////////
 -------------------------
-User: 1118899510497828865 - December 3, 2019, 8:43 am
-Time Stamps: 1575384059044
-tweet: Tess! woi ngopi woii
+User: the user id of the sender - Date of the tweet sent
+Time Stamps: the dm time stamps
+tweet: the tweet that sent
 -------------------------
-User: 1109689134652653569 - December 3, 2019, 8:43 am
-Time Stamps: 1575384057115
-tweet: Tess! punten,,,
+User: 123123 - January 1, 1945, 1:11 am
+Time Stamps: 123123 
+tweet: abc 
 -------------------------
